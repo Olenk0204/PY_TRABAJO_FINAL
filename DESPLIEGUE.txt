@@ -1,0 +1,5 @@
+<INICIO>
+1. Actualizacion del codigo
+2. Añadir busqueda de productos
+3. Desplegar aplicacion en el servidor de produccion
+<FIN>
